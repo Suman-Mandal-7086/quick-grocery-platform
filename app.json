@@ -1,0 +1,11 @@
+{
+  "expo": {
+    "name": "Quick Grocery",
+    "slug": "quick-grocery",
+    "version": "1.0.0",
+    "android": {
+      "package": "com.suman.quickgrocery",
+      "googleServicesFile": "./google-services.json"
+    }
+  }
+}
